@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+
+.table-40 {
+    width: 40%!important;
+}
+
+.title-custom {
+    text-align: left;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 20px;
+    padding: 15px 0 5px;
+}
+
+.pos-f-t {
+    margin-bottom: 30px;
+}
+
+.margin-custom {
+    margin: 20px 0;
+}
+
+.m-t-50 {
+    margin-top: 50px;
+}
