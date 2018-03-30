@@ -5,3 +5,7 @@ Trabalho desenvolvido para a disciplina de simulação do curso de ciência da c
 # Projeto
 
 projeto desenvolvido utilizando a biblioteca React.
+
+link para acessar o projeto: https://juliocesarceron.github.io/simulacao_teoria_das_filas/
+
+link para tabela de simulação de lavagem de carro: https://juliocesarceron.github.io/simulacao/ 
