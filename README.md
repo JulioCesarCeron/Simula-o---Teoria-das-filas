@@ -10,7 +10,7 @@ link para acessar o projeto: https://juliocesarceron.github.io/simulacao_teoria_
 
 link para tabela de simulação de lavagem de carro: https://juliocesarceron.github.io/simulacao/ 
 
-# Instação
+# Instalação
 
     npm install
     npm start
